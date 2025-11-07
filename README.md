@@ -10,3 +10,16 @@ I made a simple voice assistant using Python that can:
 It’s a beginner level project and I really enjoyed making it :)  
 
 **Project by:** Asra Fathima 🌷
+
+---
+
+### Task-2 : BMI Calculator
+
+This is my second task for the Oasis Infobyte Python internship.  
+I created a simple BMI calculator that takes the user's weight and height,  
+calculates the BMI, and shows whether the person is underweight,  
+normal, overweight, or obese.
+
+It’s a beginner level project and helped me understand user input and conditions better :)  
+
+**Project by:** Asra Fathima 🌷
