@@ -23,3 +23,17 @@ normal, overweight, or obese.
 It’s a beginner level project and helped me understand user input and conditions better :)  
 
 **Project by:** Asra Fathima 🌷
+
+---
+
+### Task-3 : Random Password Generator
+
+This is my third task for the Oasis Infobyte Python Internship.  
+I created a simple random password generator using Python that lets the user:  
+- Choose the password length.  
+- Include letters, numbers, and symbols.  
+- Get a random strong password instantly.  
+
+It’s a beginner-friendly project and helped me learn about loops, randomization, and character handling in Python.  
+
+Project by: Asra Fathima 🌸
